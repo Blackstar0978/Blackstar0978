@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Solar_XxX
+- 👋 Hi, I’m @SolxrX
 - 👀 I’m interested in ... Gaming and Coding
 - 🌱 I’m currently learning ... Python,Html and c++
 <!---
